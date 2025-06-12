@@ -9,8 +9,7 @@ I'm passionate about software development and love turning ideas into real appli
         <img 
             alt="API BANCO" 
             title="API BANCO(JAVA)" 
-            src="![Static Badge](https://img.shields.io/badge/BANKING--api?style=for-the-badge&logo=coffeescript&label=BANKING-API&color=blue&link=https%3A%2F%2Fgithub.com%2Fsaulopietro%2Fbanco-api)
-"
+            src="https://img.shields.io/badge/BANKING--api?style=for-the-badge&logo=coffeescript&label=BANKING-API&color=blue&link=https%3A%2F%2Fgithub.com%2Fsaulopietro%2Fbanco-api"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
