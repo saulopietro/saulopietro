@@ -27,16 +27,16 @@ I'm passionate about software development and love turning ideas into real appli
 
 <img 
     align="left" 
-    alt="JAVA" 
-    title="JAVA"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/608296e0-723b-4022-afa1-905797e0d44a" 
 />
 <img 
     align="left" 
-    alt="SPRING" 
-    title="SPRING"
+    alt="Spring-boot" 
+    title="Spring-boot"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/3315afb3-1e41-4b8f-a852-c691d5e3eaef" 
