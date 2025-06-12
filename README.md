@@ -59,11 +59,11 @@ I'm passionate about software development and love turning ideas into real appli
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Vue"
+    title="Vue" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" 
 />
 
 
