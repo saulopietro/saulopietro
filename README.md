@@ -64,8 +64,7 @@ I'm passionate about software development and love turning ideas into real appli
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="![image](https://github.com/user-attachments/assets/de11516c-494f-4cfb-bb5e-8f33a53d06e7)
-" 
+    src="https://github.com/user-attachments/assets/de11516c-494f-4cfb-bb5e-8f33a53d06e7" 
 />
 <img 
     align="left" 
