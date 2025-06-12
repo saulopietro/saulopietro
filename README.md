@@ -1,4 +1,4 @@
-👋 Hi, I'm Saulo Pietro!
+👋 Hi, I'm Saulo Pietro! \
 I'm a Full Stack Developer and Software Engineering student from Teresina, Piauí, Brazil 🇧🇷.
 
 💻 About Me: \
