@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Saulo Pietro!
+I'm a Full Stack Developer and Software Engineering student from Teresina, Piauí, Brazil 🇧🇷.
 
-<!--
-**saulopietro/saulopietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
+I'm passionate about software development and love turning ideas into real applications. I specialize in both frontend and backend development, with a growing focus on building scalable and maintainable systems. I'm always looking for opportunities to learn, grow, and collaborate on impactful projects.
 
-Here are some ideas to get you started:
+🚀 Technologies & Tools
+🔙 Backend: Java (Spring Boot), Node.js (Express)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend: JavaScript, HTML, CSS
+
+🛢️ Databases: MySQL, PostgreSQL, MongoDB
+
+🛠️ Tools: Git, GitHub, VS Code, Postman, Insomnia
+
+🌐 Currently Learning: Clean architecture, system design, and cloud services (AWS)
+
+📈 GitHub Stats
+
+📫 Let's Connect
+🌐 LinkedIn: [your-link-here]
+
+📧 Email: [your-email-here]
+
+Thanks for stopping by! 😊
