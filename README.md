@@ -19,6 +19,14 @@ I'm passionate about software development and love turning ideas into real appli
             src="https://img.shields.io/badge/CRUD--API?style=for-the-badge&logo=coffeescript&label=CLIENT-CRUD&color=red&link=https%3A%2F%2Fgithub.com%2Fsaulopietro%2Fbanco-api"
         />
     </a> 
+    <a href="https://github.com/saulopietro/CRUD">
+    <img 
+        alt="WISECOIN" 
+        title="WISECOIN" 
+        src="https://img.shields.io/badge/CRUD--API?style=for-the-badge&logo=coffeescript&label=CLIENT-CRUD&color=red&link=https%3A%2F%2Fgithub.com%2Fsaulopietro%2Fbanco-api"
+    />
+    </a>
+     <a href="https://github.com/saulopietro/wisecoin">
 </p>
 
 ---
